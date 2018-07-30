@@ -4,6 +4,10 @@ Adds a convenient drawer (appears on hovering a thin horizontal bar) having link
 
 ![Screenshot](https://i0.wp.com/wpdevdesign.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-30-at-8.40.37-pm.png?w=280&ssl=1)
 
+Screencast: https://www.youtube.com/watch?v=-7zSDxer3ZM
+
+Blog post: https://wpdevdesign.com/oxygen-editor-links-plugin/
+
 ## Installation ##
 
 1. Make sure that Oxygen is installed and active.
