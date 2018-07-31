@@ -3,7 +3,7 @@
 Plugin Name:	Oxygen Editor Links
 Plugin URI:		https://wpdevdesign.com/custom-editor-links/
 Description:	Provides a quick 1-click access to Frontend, Admin, Settings, Stylesheets and Selectors in Oxygen.
-Version:		1.0.0
+Version:		1.0.1
 Author:			Sridhar Katakam
 Author URI:		https://sridharkatakam.com
 License:		GPL-2.0+

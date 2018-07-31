@@ -23,5 +23,8 @@ Blog post: https://wpdevdesign.com/oxygen-editor-links-plugin/
 
 ## Changelog ##
 
+### 1.0.1 - July 31, 2018 ###
+* Fixed z-index so the menu does not covered by the interface.
+
 ### 1.0.0 - July 30, 2018 ###
 * Initial Release
